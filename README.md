@@ -16,4 +16,11 @@ Following steps are performed in this tutorial.
 
 4. Create a function to generate password
 
+## Run the application
+
+Open command line, go to project folder, and type command.
+
+`python3 .\index.py`
+
+
 Read the detailed tutorial at: 

@@ -23,4 +23,4 @@ Open command line, go to project folder, and type command.
 `python3 .\index.py`
 
 
-Read the detailed tutorial at: 
+Read the detailed tutorial at: https://programmerblog.net/make-a-python-password-generator/
